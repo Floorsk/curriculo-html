@@ -7,6 +7,13 @@ body {
     font-family: arial, sans-serif;
 }
 
+p {
+    margin: 0px;
+    text-indent: 3ch;
+    text-align: justify;
+    font-size: medium;
+}
+
 div#interface {
     width: 900px;
     background-color: #ffffffff;
